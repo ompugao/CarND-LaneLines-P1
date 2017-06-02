@@ -34,7 +34,8 @@ and after that, I apply the roi-mask to the image which lines are drawn.
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![output example][./test_images_output/solidWhiteCurve_output.png]
+
+![output example][https://github.com/ompugao/CarND-LaneLines-P1/blob/master/test_images_output/solidYellowCurve2_output.png?raw=true]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
